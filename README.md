@@ -3,5 +3,4 @@
  
  For direct view click on below drive link
  
- 
- <iframe src="https://docs.google.com/document/d/e/2PACX-1vTcAkxixjOq4FrNvCOZjIlG_3U2i3B75mA-D6WmSi9OspIz54bhWyrUbhrNbR59DjXebPWw777CJE7_/pub?embedded=true"></iframe>
+ https://docs.google.com/document/d/1gjSyMf9fR3NkBN8c5a4AGZUTY87xAAAJpmUVRTmKDGQ/edit#heading=h.13hxmq1bhk8e
